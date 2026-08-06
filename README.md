@@ -1,2 +1,3 @@
-# zorrolee777.github.io
-Academic website of Zongru Li
+# Zongru Li
+
+Personal academic website: https://zorrolee777.github.io/
